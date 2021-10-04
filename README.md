@@ -2,6 +2,27 @@
 
 I'm a Front-End Developer, so I'm fascinated by the vast world of technology :coffee: :computer: :heart:
 
+## Portfolio:
+Mobile Skin - https://preview.justpremium.com/120514 - Motorola
+
+Mobile Skin - https://preview.justpremium.com/120308 - Very Good GirL
+
+Mobile Skin - https://preview.justpremium.com/125989 - IQOS
+
+Mobile Scroller - https://preview.justpremium.com/124233 - Senseo
+
+Mobile Footer Expandable - https://preview.justpremium.com/115308 - VW
+
+Mobile Footer Expandable - https://preview.justpremium.com/124701 - Paypal
+
+Desktop Skin - https://preview.justpremium.com/113566 - Clesa
+
+Desktop Skin - https://preview.justpremium.com/114328 - Nestle
+
+Desktop Skin - https://preview.justpremium.com/122277 - Amazon
+
+Desktop Skin - https://preview.justpremium.com/119356 - AMC
+
 ## Languages and Tools:
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMendesLopes&show_icons=true&theme=tokyonight)
