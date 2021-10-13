@@ -1,6 +1,6 @@
 ## Hello world! I'm Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" style="max-width: 100%;">
 
-I'm a Front-End Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
+FrontEnd Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
 
  <div align="center">
   <span>
