@@ -4,8 +4,11 @@
 </a>
 
 <br />
+<br />
 
-Frontend Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
+Frontend developer with experience in the internet industry. I worked in the development of advertising campaigns, using languages ​​such as HTML, CSS, JavaScript and the GSAP platform.
+
+I am a person who is always looking to acquire new knowledge, thus fascinated by the vast world of technology. :coffee: :computer: :heart:
 
 **languages and tools:** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
