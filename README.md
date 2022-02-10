@@ -36,23 +36,12 @@ I am a person who is always looking to acquire new knowledge, thus fascinated by
 
 
 <div align="center">
-
-  
-
-- 📫 How to reach me **lucasmendeslopes.pessoal@gmail.com**
-
-  
-
+  📫 How to reach me **lucasmendeslopes.pessoal@gmail.com**
 </div>
 
-
-
-
-
  <h3 align="center">Connect with me:</h3>
-
-  
-
+ 
+ 
  <p align="left">
 
   <li align="center">
