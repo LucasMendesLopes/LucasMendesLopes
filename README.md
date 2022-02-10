@@ -10,6 +10,9 @@ Frontend developer with experience in the internet industry. I worked in the dev
 
 I am a person who is always looking to acquire new knowledge, thus fascinated by the vast world of technology. :coffee: :computer: :heart:
 
+<br />
+<br />
+
 **languages and tools:** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
