@@ -12,7 +12,7 @@ I am a person who is always looking to acquire new knowledge, thus fascinated by
 
 <br />
 
-**languages and tools:** 
+**languages and tools: ** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,41 +23,15 @@ I am a person who is always looking to acquire new knowledge, thus fascinated by
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMendesLopes&layout=compact&theme=tokyonight)](https://github.com/LucasMendesLopes/github-readme-stats)
 
-  
-
-
-
-</div>
-
-
-
-
-
-
 
 <div align="center">
   - 📫 How to reach me **lucasmendeslopes.pessoal@gmail.com**
 </div>
 
  
-<h3 align="center"> 🚀 Frameworks </h3>
-
-<div align="center">
- <span>
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
- </span>
-</div>
-
-
 </br>
 
 
 <div align="center">
-
-  
-
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMendesLopes&show_icons=true&theme=tokyonight)
-
-
-
+  ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMendesLopes&show_icons=true&theme=tokyonight)
 </div>
