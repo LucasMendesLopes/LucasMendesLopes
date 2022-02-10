@@ -1,4 +1,7 @@
 ### hey there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<a href="https://www.linkedin.com/in/lucas-mendes-lopes-29160b1b4/">
+  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 Frontend Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
 
