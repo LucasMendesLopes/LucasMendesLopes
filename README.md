@@ -1,6 +1,6 @@
 ## Hello world! I'm Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" style="max-width: 100%;">
 
-FrontEnd Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
+Frontend Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
 
  <div align="center">
   <span>
@@ -9,6 +9,8 @@ FrontEnd Developer, fascinated by the vast world of technology :coffee: :compute
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    
    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+   
+    <img src="https://img.shields.io/badge/react-F7DF1E?style=for-the-badge&logo=react&logoColor=purple"/>
   </span>
  </div>
 </br>
