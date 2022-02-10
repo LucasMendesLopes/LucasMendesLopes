@@ -26,10 +26,6 @@ I am a person who is always looking to acquire new knowledge, thus fascinated by
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMendesLopes&layout=compact&theme=tokyonight)](https://github.com/LucasMendesLopes/github-readme-stats)
 
-
-- 📫 How to reach me **lucasmendeslopes.pessoal@gmail.com**
-
- 
 </br>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LucasMendesLopes&show_icons=true&theme=gotham" alt="Lucas Mendes Lopes" />
