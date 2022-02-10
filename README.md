@@ -10,8 +10,6 @@ Frontend developer with experience in the internet industry. I worked in the dev
 
 I am a person who is always looking to acquire new knowledge, thus fascinated by the vast world of technology. :coffee: :computer: :heart:
 
-<br />
-
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 **Languages and tools:** 
