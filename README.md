@@ -28,5 +28,6 @@ I am a person who is always looking to acquire new knowledge, thus fascinated by
 
 <br />
 <br />
+<br />
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LucasMendesLopes&show_icons=true&theme=gotham" alt="Lucas Mendes Lopes" />
