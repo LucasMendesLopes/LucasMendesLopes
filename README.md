@@ -36,24 +36,10 @@ I am a person who is always looking to acquire new knowledge, thus fascinated by
 
 
 <div align="center">
-  📫 How to reach me **lucasmendeslopes.pessoal@gmail.com**
+  - 📫 How to reach me **lucasmendeslopes.pessoal@gmail.com**
 </div>
 
- <h3 align="center">Connect with me:</h3>
  
- 
- <p align="left">
-
-  <li align="center">
-
-   <a class="url" href="https://www.linkedin.com/in/lucas-mendes-lopes-29160b1b4/" img> 
-
-    Linkedin
-
-   </a>
-
-  </li>
-  
 <h3 align="center"> 🚀 Frameworks </h3>
 
 <div align="center">
