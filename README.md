@@ -1,4 +1,4 @@
-## Hello world! I'm Lucas <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Earth.gif" width="30" style="max-width: 100%;">
+### hey there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 Frontend Developer, fascinated by the vast world of technology :coffee: :computer: :heart:
 
