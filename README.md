@@ -6,7 +6,7 @@
 <br />
 <br />
 
-Frontend developer with experience in the internet industry. I worked in the development of advertising campaigns, using languages ​​such as HTML, CSS, JavaScript and the GSAP platform.
+frontend developer with experience in the internet industry. I currently develop web applications for different architectures and organizations.
 
 I am a person who is always looking to acquire new knowledge, thus fascinated by the vast world of technology. :coffee: :computer: :heart:
 
