@@ -6,7 +6,7 @@
 <br />
 <br />
 
-frontend developer with experience in the internet industry. I currently develop web applications for different architectures and organizations.
+frontend developer with experience in the internet industry. I currently develop web applications for different organizations.
 
 I am a person who is always looking to acquire new knowledge, thus fascinated by the vast world of technology. :coffee: :computer: :heart:
 
