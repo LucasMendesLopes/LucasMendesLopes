@@ -8,7 +8,7 @@
  
  - 💜 *Apaixonado por Desenvolvimento Web, em especial por Frontend 💙* 
  
- - 💻 Atualmente desenvolvendo para a empresa Paipe Tecnologia e Inovação, aplicações web para diferentes organizações. Em meu dia a dia, atuo juntamente com o time de Backend e Design para proporcionar qualidade nas entregas, em relação a organização, é utilizado Scrum e Kambam e se falando em tecnologias, as que utilizo, são: HTML, CSS, JavaScript, TypeScript, React JS, Styled Components, API REST, Git, GitFlow, GitLab
+ - 💻 Atualmente desenvolvendo para a empresa Paipe Tecnologia e Inovação, aplicações web para diferentes organizações, sendo uma das principais, a Beira Rio. Em meu dia a dia, trabalho juntamente com os times de Backend e Design, construindo interfaces seguindo padrões de qualidade referentes a cada cliente, utilizando Scrum e Kamban para organização das tarefas. Para o desenvolvimento das aplicações, utilizo React JS, Styled Components, JavaScript, TypeScript, Gitlab, GitFlow e consumo de APIs REST.
  
  - 🏍️ *Amante do mundo das motos, nas horas vagas, estou sempre pela estrada, procurando novos ventos* 
 
