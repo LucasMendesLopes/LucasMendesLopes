@@ -8,13 +8,12 @@
  
  - 💜 *Apaixonado por Desenvolvimento Web, em especial por Frontend 💙* 
  
- - 💻 *Atualmente desenvolvendo para a empresa Paipe Tecnologia e Inovação, aplicações web para diferentes organizações*
+ - 💻 Atualmente desenvolvendo para a empresa Paipe Tecnologia e Inovação, aplicações web para diferentes organizações. Em meu dia a dia, atuo juntamente com o time de Backend e Design para proporcionar qualidade nas entregas, em relação a organização, é utilizado Scrum e Kambam e se falando em tecnologias, as que utilizo, são: HTML, CSS, JavaScript, TypeScript, React JS, Styled Components, API REST, Git, GitFlow, GitLab
  
- - 🏍️ *Amante do mundo das motos, nas horas vagas, estou sempre pela estrada procurando novos ventos* 
+ - 🏍️ *Amante do mundo das motos, nas horas vagas, estou sempre pela estrada, procurando novos ventos* 
 
 
 ## 🔮 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
 
 <div align="center">
  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW51eXU2bjV3anB1M2djYnAwY3J0YTMwcHE2a3hjZjk5ZTg5ZWg1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
