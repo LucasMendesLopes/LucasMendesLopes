@@ -1,22 +1,40 @@
-### Hey there, I'm Lucas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://www.linkedin.com/in/lucas-mendes-lopes-29160b1b4/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h1 align="center" >Hello!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-<br />
-<br />
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
-frontend developer with experience in the internet industry. I currently develop web applications for different organizations.
+## 💡 Sobre mim :
 
-I am a person who is always looking to acquire new knowledge, thus fascinated by the vast world of technology. :coffee: :computer: :heart:
+ - 😁 *Me chamo Lucas Mendes lopes e moro no Rio Grande do Sul, na cidade de Estância Velha* 
+ 
+ - 💜 *Apaixonado por Desenvolvimento Web, em especial por Frontend 💙* 
+ 
+ - 💻 *Atualmente desenvolvendo para a empresa Paipe Tecnologia e Inovação, aplicações web para diferentes organizações*
+ 
+ - 🏍️ *Amante do mundo das motos, nas horas vagas, estou sempre pela estrada procurando novos ventos* 
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
-**Languages and tools:** 
+## 🔮 Minha Stack
+ Essas são algumas das tecnologias que uso no dia a dia
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<div align="center">
+ <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW51eXU2bjV3anB1M2djYnAwY3J0YTMwcHE2a3hjZjk5ZTg5ZWg1aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
+ <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHF6ZDB3b2I2MHNqbzFkMXplamU0N2hicTVsaXRsZnJucjk1NHE1ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100">
+ <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">
+ <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
+ <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
+ <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
+</div>
+
+## :speech_balloon: Vamos conversar  
+
+Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+
+<div align="center"> 
+<a href="https://github.com/LucasMendesLopes"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
+<a href="mailto:lucasmendeslopes.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/lucas-mendes-lopes-29160b1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
+ 
+#
+ 
+<p align="center">Feito com 💜 <strong>Lucas Lopes :wave: </p>
