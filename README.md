@@ -31,7 +31,6 @@ OBS: Quando não estou programando, gosto de pegar a estrada e sentir o vento no
 Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
 
 <div align="center"> 
-<a href="https://github.com/LucasMendesLopes"><img src="https://img.shields.io/badge/-Github-%23333?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>   
 <a href="mailto:lucasmendeslopes.pessoal@gmail.com"><img src="https://img.shields.io/badge/-Gmail-ff9800?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 <a href="https://www.linkedin.com/in/lucas-mendes-lopes-29160b1b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
