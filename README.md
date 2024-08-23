@@ -12,9 +12,6 @@ Após, integrei a equipe da Paipe Tecnologia e Inovação, onde desenvolvi siste
 
 Minha formação técnica em informática foi fundamental para minha jornada, oferecendo-me uma base sólida em lógica de programação e familiaridade com diversas práticas e ferramentas do mercado. Esse conhecimento técnico, aliado à minha experiência prática, permite-me enfrentar desafios com confiança e eficiência.
 
-OBS: Quando não estou programando, gosto de pegar a estrada e sentir o vento no rosto.
-
-
 ## 🔮 Minha Stack
 
 <div align="center">
